@@ -103,4 +103,4 @@ A Python script for Twitch Chat interaction with almost any game.
 ###### * Testing will be unresponsive from host machine running the script.
 ###### You will need to test from another device, or get a friend to login to Twitch and test inputs that way.
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'K3K41ZT81Q');kofiwidget2.draw();</script>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K41ZT81Q)
